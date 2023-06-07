@@ -1,0 +1,1 @@
+This is the README.md for INIT_FILES_VARIABLE_AND_EXPANSIONS directory
