@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Display PID of process with word "bash"
+#can not use "ps"
+pgrep -l -i 'bash'
