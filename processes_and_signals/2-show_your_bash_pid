@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#Show PID of script containing word "bash" in it
+ps aux | grep -i 'bash'
